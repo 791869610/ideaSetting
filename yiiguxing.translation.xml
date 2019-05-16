@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="小程序" />
+      <item value="分组" />
+      <item value="下载" />
+      <item value="模版" />
+      <item value="批量" />
+      <item value="Condition value." />
+      <item value="Adds a condition item with specified {@link MatchMode} value." />
+      <item value="禁用" />
+      <item value="激活" />
+      <item value="分页" />
+      <item value="上周" />
+      <item value="支出" />
+      <item value="流水" />
+      <item value="subtract" />
+      <item value="multiply" />
+      <item value="形参" />
+      <item value="参数" />
+      <item value="reschedule" />
+      <item value="resume" />
+      <item value="pause" />
+      <item value="pausejob" />
+      <item value="通话次数" />
+      <item value="营收（消费）汇总" />
+      <item value="消费" />
+      <item value="汇总报表" />
+      <item value="已失效" />
+      <item value="Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level" />
+      <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
+      <item value="注册" />
+      <item value="unix timestamp in seconds when generating the Dynamic Key" />
+      <item value="失败" />
+      <item value="PERMISSION" />
+      <item value="the prefix to find, may be null" />
+      <item value="最新版本" />
+      <item value="强制" />
+      <item value="提示" />
+      <item value="内容" />
+      <item value="更新" />
+      <item value="发布" />
+      <item value="版本管理" />
+      <item value="present" />
+      <item value="Batch update failure with HTTP status code 401; discarding 1 replication tasks" />
+      <item value="prison-discovery.dev-prison.svc.cluster.local" />
+      <item value="Cannot execute request on any known server" />
+      <item value="调度" />
+      <item value="SELECT list is not in GROUP BY clause and contains nonaggregated column 'c2.module_i" />
+      <item value="结算" />
+      <item value="充值" />
+      <item value="resolving" />
+      <item value="Causes the next filter in the chain to be invoked, or if the calling * filter is the last filter in the chain, causes the resource at the end of * the chain to be invoked." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="281" />
+        <entry key="BASQUE" value="2" />
+        <entry key="POLISH" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="FRISIAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
