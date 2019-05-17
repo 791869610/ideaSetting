@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人脸识别" />
+      <item value="属性" />
       <item value="bayonet" />
       <item value="卡口" />
       <item value="单价" />
@@ -49,13 +51,11 @@
       <item value="发布" />
       <item value="版本管理" />
       <item value="present" />
-      <item value="Batch update failure with HTTP status code 401; discarding 1 replication tasks" />
-      <item value="prison-discovery.dev-prison.svc.cluster.local" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="290" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
