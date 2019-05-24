@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="纬度" />
+      <item value="lat" />
       <item value="Status" />
       <item value="Region" />
       <item value="refresh" />
@@ -49,15 +51,13 @@
       <item value="参数" />
       <item value="reschedule" />
       <item value="resume" />
-      <item value="pause" />
-      <item value="pausejob" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="311" />
         <entry key="BASQUE" value="2" />
-        <entry key="POLISH" value="1" />
+        <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
