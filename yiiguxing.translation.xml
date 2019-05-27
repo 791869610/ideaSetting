@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to hold the string {@code value} if {@code key} is absent." />
       <item value="配置" />
       <item value="纬度" />
       <item value="lat" />
@@ -50,12 +51,11 @@
       <item value="multiply" />
       <item value="形参" />
       <item value="参数" />
-      <item value="reschedule" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
