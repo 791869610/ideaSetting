@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calledShowNum may not be Numeric" />
+      <item value="specified" />
+      <item value="component" />
+      <item value="candidate" />
+      <item value="Error processing condition" />
+      <item value="Consider defining a bean of type 'com.ly.panda.lib.core.libcore.base.thirdParty.aliyun.AliyunMsgProperties' in your configuration." />
       <item value="configuration" />
       <item value="Consider defining a bean of type" />
       <item value="Consider" />
@@ -45,17 +51,11 @@
       <item value="应急预案" />
       <item value="坐标" />
       <item value="执勤人员" />
-      <item value="人脸识别" />
-      <item value="属性" />
-      <item value="bayonet" />
-      <item value="卡口" />
-      <item value="单价" />
-      <item value="方向" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
