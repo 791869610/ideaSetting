@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核不通过" />
+      <item value="审核通过" />
+      <item value="未审核" />
       <item value="Recomment" />
       <item value="推荐" />
       <item value="选中" />
@@ -48,14 +51,11 @@
       <item value="Status" />
       <item value="Region" />
       <item value="refresh" />
-      <item value="刷新" />
-      <item value="activate" />
-      <item value="激活" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="355" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
