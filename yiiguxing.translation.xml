@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="租户端" />
       <item value="generate Presigned Url" />
       <item value="Credentials Container" />
       <item value="erase Credentials After Authentication" />
@@ -50,11 +51,10 @@
       <item value="lane" />
       <item value="Inspection Spot Car Entity" />
       <item value="Inspection Spor Car Entity" />
-      <item value="insection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
+        <entry key="CHINESE" value="369" />
         <entry key="ENGLISH" value="369" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
