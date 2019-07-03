@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reports conditions that become redundant as they are completely covered by a subsequent condition. For example, in the value != -1 &amp;&amp; value &gt; 0 condition, the first part is redundant: if it's false, then the second part is also false. Or in a condition like obj != null &amp;&amp; obj instanceof String, the null-check is redundant as instanceof operator implies non-nullity." />
       <item value="the raw password to encode and match" />
       <item value="the encoded password from storage to compare with" />
       <item value="Verify the encoded password obtained from storage matches the submitted raw * password after it too is encoded. Returns true if the passwords match, false if * they do not. The stored password itself is never decoded." />
@@ -50,12 +51,11 @@
       <item value="configuration" />
       <item value="Consider defining a bean of type" />
       <item value="Consider" />
-      <item value="矩形" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="373" />
+        <entry key="ENGLISH" value="374" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
