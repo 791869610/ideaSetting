@@ -3,14 +3,11 @@
     <property name="created">2018-09-25T09:44:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-07-03T16:13:58</property>
+    <property name="modified">2018-09-25T17:57:57</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value />
-    </option>
-    <option name="TEXT">
       <value />
     </option>
     <option name="WARNING_ATTRIBUTES">
