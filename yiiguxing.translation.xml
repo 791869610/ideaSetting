@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credentials" />
       <item value="不足" />
       <item value="subtract" />
       <item value="remainder" />
@@ -38,7 +39,6 @@
       <item value="批量" />
       <item value="纬度" />
       <item value="经度" />
-      <item value="credentials" />
       <item value="Invalid Grant Exception" />
       <item value="Expression" />
       <item value="authorize" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
