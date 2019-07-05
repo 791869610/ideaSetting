@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Performs authentication with the same contract as" />
       <item value="The identity of the principal being authenticated. In the case of an authentication" />
       <item value="The identity of the principal being authenticated. In the case of an authentication * request with username and password, this would be the username. Callers are * expected to populate the principal for an authentication request." />
       <item value="Principal" />
@@ -50,12 +51,11 @@
       <item value="Access Denied Handler" />
       <item value="Field configurers in org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerEndpointsConfiguration required a bean of type 'java.util.List' that could not be found." />
       <item value="onsider defining a bean of type 'java.util.List' in your configuration." />
-      <item value="authenticated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="386" />
+        <entry key="ENGLISH" value="387" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
