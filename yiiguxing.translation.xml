@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The identity of the principal being authenticated. In the case of an authentication" />
+      <item value="The identity of the principal being authenticated. In the case of an authentication * request with username and password, this would be the username. Callers are * expected to populate the principal for an authentication request." />
+      <item value="Principal" />
+      <item value="Construct an OAuth 2 authentication. Since some grant types don't require user authentication, the user * authentication may be null." />
       <item value="credentials" />
       <item value="不足" />
       <item value="subtract" />
@@ -47,15 +51,11 @@
       <item value="Field configurers in org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerEndpointsConfiguration required a bean of type 'java.util.List' that could not be found." />
       <item value="onsider defining a bean of type 'java.util.List' in your configuration." />
       <item value="authenticated" />
-      <item value="An incomplete mapping was found for [any request]. Try completing it with something like requestUrls().&lt;something&gt;.hasRole('USER')" />
-      <item value="Checks Spring Boot application .yaml configuration files. Highlights unresolved and deprecated configuration keys and invalid values" />
-      <item value="calledShowNum may not be Numeric" />
-      <item value="specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="386" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
