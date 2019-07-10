@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signals places where an unchecked warning is issued by the compiler, for example" />
       <item value="Unsatisfied" />
       <item value="reference" />
       <item value="circular" />
@@ -50,12 +51,11 @@
       <item value="未审核" />
       <item value="Recomment" />
       <item value="推荐" />
-      <item value="选中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
