@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入口信息" />
       <item value="游览方式" />
       <item value="批量" />
       <item value="不允许" />
@@ -50,12 +51,11 @@
       <item value="Attempts to authenticate the passed {@link Authentication} object. * &lt;p&gt; * The list of {@link AuthenticationProvider}s will be successively tried until an * &lt;code&gt;AuthenticationProvider&lt;/code&gt; indicates it is capable of authenticating the * type of &lt;code&gt;Authentication&lt;/code&gt; object passed. Authentication will then be * attempted with that &lt;code&gt;AuthenticationProvider&lt;/code&gt;. * &lt;p&gt; * If more than one &lt;code&gt;AuthenticationProvider&lt;/code&gt; supports the passed * &lt;code&gt;Authentication&lt;/code&gt; object, the first one able to successfully * authenticate the &lt;code&gt;Authentication&lt;/code&gt; object determines the * &lt;code&gt;result&lt;/code&gt;, overriding any possible &lt;code&gt;AuthenticationException&lt;/code&gt; * thrown by earlier supporting &lt;code&gt;AuthenticationProvider&lt;/code&gt;s. * On successful authentication, no subsequent &lt;code&gt;AuthenticationProvider&lt;/code&gt;s * will be tried. * If authentication was not successful by any supporting" />
       <item value="链接" />
       <item value="文章" />
-      <item value="classification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="407" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
