@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specified" />
+      <item value="Conflicting" />
+      <item value="Conflicting Bean Definition Exception" />
       <item value="characters" />
       <item value="character" />
       <item value="Invalid" />
@@ -48,14 +51,11 @@
       <item value="the raw password to encode and match" />
       <item value="the encoded password from storage to compare with" />
       <item value="Verify the encoded password obtained from storage matches the submitted raw * password after it too is encoded. Returns true if the passwords match, false if * they do not. The stored password itself is never decoded." />
-      <item value="租户端" />
-      <item value="generate Presigned Url" />
-      <item value="Credentials Container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
