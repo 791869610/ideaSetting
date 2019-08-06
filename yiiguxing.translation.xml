@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="属性" />
       <item value="变量" />
       <item value="二维数组" />
       <item value="Generics" />
@@ -50,12 +51,11 @@
       <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose preferred scale is {@code (this.scale() - * divisor.scale())}; if the exact quotient cannot be * represented (because it has a non-terminating decimal * expansion) an {@code ArithmeticException} is thrown." />
       <item value="divide" />
       <item value="multiply" />
-      <item value="Reports conditions that become redundant as they are completely covered by a subsequent condition. For example, in the value != -1 &amp;&amp; value &gt; 0 condition, the first part is redundant: if it's false, then the second part is also false. Or in a condition like obj != null &amp;&amp; obj instanceof String, the null-check is redundant as instanceof operator implies non-nullity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="415" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="416" />
+        <entry key="ENGLISH" value="416" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
