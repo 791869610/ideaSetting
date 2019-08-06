@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="变量" />
+      <item value="二维数组" />
+      <item value="Generics" />
       <item value="specified" />
       <item value="Conflicting" />
       <item value="Conflicting Bean Definition Exception" />
@@ -48,14 +51,11 @@
       <item value="divide" />
       <item value="multiply" />
       <item value="Reports conditions that become redundant as they are completely covered by a subsequent condition. For example, in the value != -1 &amp;&amp; value &gt; 0 condition, the first part is redundant: if it's false, then the second part is also false. Or in a condition like obj != null &amp;&amp; obj instanceof String, the null-check is redundant as instanceof operator implies non-nullity." />
-      <item value="the raw password to encode and match" />
-      <item value="the encoded password from storage to compare with" />
-      <item value="Verify the encoded password obtained from storage matches the submitted raw * password after it too is encoded. Returns true if the passwords match, false if * they do not. The stored password itself is never decoded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="415" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
