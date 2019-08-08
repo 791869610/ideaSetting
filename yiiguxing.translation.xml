@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理" />
       <item value="属性" />
       <item value="变量" />
       <item value="二维数组" />
@@ -50,7 +51,6 @@
       <item value="减" />
       <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose preferred scale is {@code (this.scale() - * divisor.scale())}; if the exact quotient cannot be * represented (because it has a non-terminating decimal * expansion) an {@code ArithmeticException} is thrown." />
       <item value="divide" />
-      <item value="multiply" />
     </histories>
     <option name="languageScores">
       <map>
