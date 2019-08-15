@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verifier Key" />
+      <item value="verifier" />
+      <item value="RSA" />
       <item value="处理" />
       <item value="属性" />
       <item value="变量" />
@@ -37,8 +40,6 @@
       <item value="currently" />
       <item value="Signals places where an unchecked warning is issued by the compiler, for example:" />
       <item value="Internal Authentication Service Exception" />
-      <item value="verifier Key" />
-      <item value="verifier" />
       <item value="Performs authentication with the same contract as" />
       <item value="The identity of the principal being authenticated. In the case of an authentication" />
       <item value="The identity of the principal being authenticated. In the case of an authentication * request with username and password, this would be the username. Callers are * expected to populate the principal for an authentication request." />
@@ -50,17 +51,17 @@
       <item value="remainder" />
       <item value="减" />
       <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose preferred scale is {@code (this.scale() - * divisor.scale())}; if the exact quotient cannot be * represented (because it has a non-terminating decimal * expansion) an {@code ArithmeticException} is thrown." />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
