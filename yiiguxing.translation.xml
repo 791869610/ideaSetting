@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="现金" />
+      <item value="挂账" />
+      <item value="预存" />
       <item value="导出" />
       <item value="export" />
       <item value="取消" />
@@ -26,8 +29,6 @@
       <item value="二维码链接" />
       <item value="购票成功" />
       <item value="预存结账" />
-      <item value="挂账" />
-      <item value="现金" />
       <item value="渠道商" />
       <item value="散客" />
       <item value="手持机" />
@@ -50,12 +51,11 @@
       <item value="属性" />
       <item value="变量" />
       <item value="二维数组" />
-      <item value="Generics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="463" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
