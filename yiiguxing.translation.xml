@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Valet" />
       <item value="divide" />
       <item value="commission Amount" />
       <item value="prestored" />
@@ -50,17 +51,17 @@
       <item value="verifier Key" />
       <item value="verifier" />
       <item value="RSA" />
-      <item value="处理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
+        <entry key="CHINESE" value="466" />
         <entry key="ENGLISH" value="466" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="VIETNAMESE" value="1" />
