@@ -12,8 +12,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pj" value="public $VAR1$ $VAR2$ ($END$){&#10;        &#10;    return $VAR1$.ok();&#10;}&#10;" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="pj" value="public JsonData $VAR2$ ($END$){&#10;        &#10;    return JsonData.ok();&#10;}&#10;" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
