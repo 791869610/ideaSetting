@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initial Capacity" />
+      <item value="row" />
       <item value="Retrieves and removes the head of this queue," />
       <item value="导航" />
       <item value="导览" />
@@ -49,13 +51,11 @@
       <item value="高空观景" />
       <item value="动植物园" />
       <item value="古镇园林" />
-      <item value="漂流" />
-      <item value="水上乐园" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="474" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
