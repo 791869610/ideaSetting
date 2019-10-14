@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="取消" />
+      <item value="取消原因" />
       <item value="execute" />
       <item value="assign" />
       <item value="nested" />
@@ -22,7 +24,6 @@
       <item value="预存" />
       <item value="导出" />
       <item value="export" />
-      <item value="取消" />
       <item value="Statistics" />
       <item value="费用中心" />
       <item value="充值记录" />
@@ -50,12 +51,11 @@
       <item value="手持机" />
       <item value="自助机" />
       <item value="其他" />
-      <item value="剧院" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="479" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
