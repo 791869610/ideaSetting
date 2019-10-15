@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已处理" />
+      <item value="未处理" />
       <item value="取消" />
       <item value="取消原因" />
       <item value="execute" />
@@ -49,13 +51,11 @@
       <item value="渠道商" />
       <item value="散客" />
       <item value="手持机" />
-      <item value="自助机" />
-      <item value="其他" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="481" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
