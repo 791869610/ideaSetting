@@ -5,6 +5,8 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="sad" type="PLAIN_TEXT" />
       <mapping pattern="BusinessExceptionCode" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="propertity" type="Properties" />
     </extensionMap>
