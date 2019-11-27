@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constructs an UnsupportedOperationException with no detail message." />
       <item value="分析" />
       <item value="BIGSCREEN" />
       <item value="年轻" />
@@ -50,12 +51,11 @@
       <item value="batch" />
       <item value="START ARRAY" />
       <item value="temporary" />
-      <item value="Valet" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="514" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
