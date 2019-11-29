@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="区县级" />
+      <item value="省" />
+      <item value="prince" />
       <item value="Seconds" />
       <item value="Constructs an UnsupportedOperationException with no detail message." />
       <item value="分析" />
@@ -48,14 +51,11 @@
       <item value="initial Capacity" />
       <item value="row" />
       <item value="Retrieves and removes the head of this queue," />
-      <item value="导览" />
-      <item value="batch" />
-      <item value="START ARRAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="518" />
         <entry key="BASQUE" value="2" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
